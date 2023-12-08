@@ -1,16 +1,14 @@
 Introduction
 This is a basic To-Do List Flask API project, which is designed to manage a list of tasks and to-dos. The application will allow users to create, read, update and delete to-do items.
 Technology Stack
-• Programming Language: Python
-• Framework: Flask
-  o The Flask Framework is used to create the API endpoints and manage the server-side logic.
-• Database: Python list
-  o The current “database” uses a Python list to store the to-do items. However, it lacks data persistence.
+1. Programming Language: Python
+2. Framework: Flask - The Flask Framework is used to create the API endpoints and manage the server-side logic.
+3.Database: Python list - The current “database” uses a Python list to store the to-do items. However, it lacks data persistence.
 
 Development Environment
-• IDE: Visual Studio Code
-• Version Control: GitHub
-• Virtual Environment: Python’s built-in “venv” module.
+1. IDE: Visual Studio Code
+2. Version Control: GitHub
+3. Virtual Environment: Python’s built-in “venv” module.
 
 API Endpoints
 The API provides the following endpoints:
